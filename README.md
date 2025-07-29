@@ -1,4 +1,4 @@
-# Curso-de-Java-Ejercicios
+# Curso de Java en MOOC.fi
 Este repositorio contiene los ejercicios del curso de Java dictado por la Universidad de Helsinski a travez de la plataforma https://www.mooc.fi/en/
 
 ¿Qué es el curso? 
